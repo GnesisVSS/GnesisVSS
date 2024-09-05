@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](https://github.com/Kiran1689/kiran1689/blob/main/banner.png)
+![Genesis Banner Image](https://github.com/GnesisVSS/GnesisVSS/blob/GnesisVSS-test/banner.jpg)
 
 <!--Night Owl image-->
 <div>
