@@ -24,14 +24,14 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
 
 <h2 align="center"> Tech Stack & Socials </h2>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+     <h3 align="center"><strong>Most Used Lenguajes</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://streak-stats.demolab.com?user=GnesisVSS&theme=nightowl" alt="Streak Stats" />
-        </a>
+         <a href="https://github.com/Kiran1689">
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnesisVSS&theme=nightowl&exclude_repo=portafolio_de_titulo&layout=compact" alt="Top Repo" />
+       </a>
       </p>
     </td>
     <td width="50%">
@@ -42,11 +42,11 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
         </a>
       </p>
     </td>
+    
   </tr>
 </table>
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnesisVSS&theme=nightowl" alt="Top Repo" />
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
@@ -65,7 +65,7 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
  <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px; border-radius:25px" />
 </a>
   
 <a href="mailto:kirannaragund197@gmail.com" target="_blank">
