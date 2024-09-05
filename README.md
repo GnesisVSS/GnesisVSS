@@ -1,31 +1,31 @@
 <!--Banner-->
+
 ![Genesis Banner Image](https://github.com/GnesisVSS/GnesisVSS/blob/GnesisVSS-test/bedroom-banner.jpg)
 
 <!--Bedroom image-->
+
 <div>
   <img align="right" width="40%" src="https://github.com/GnesisVSS/GnesisVSS/blob/GnesisVSS-test/bedroom.svg">
 </div>
 
 <!--Header Name-->
+
 # 👩‍💻 I'm Genesis! 
 *Fullstack Web Developer*
 
 <!--Start Intro-->               
-<p align="left">Software Engineer | Passionate about Web Development and Continuous Learning. </p>
+
+<strong> <p align="left">Software Engineer | Passionate about Web Development and Continuous Learning. </p> </strong>
 
 Hi there! I'm a Software Engineer with a degree from DuocUC, specializing in Web Development. Throughout my career, I've earned certifications in technologies like HTML, CSS, JavaScript, React JS, Git, Java, and Springboot.
 
 I'm always seeking new challenges and opportunities to improve my skills. I firmly believe that every project and every mistake is a learning opportunity, and I'm driven by the continuous growth that helps me develop innovative and efficient solutions.
 
 🚀 Currently, I’m exploring new tools and technologies to enhance my work and tackle real-world problems.
+🌐 Check out my portfolio for more about my projects and what I'm working on: https://portafoliogvss.netlify.app/
+
 <!--End Intro-->
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
-</p>
-
----
 <br />
 
 <!--Languages and Tools Section-->       
