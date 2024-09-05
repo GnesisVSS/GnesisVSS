@@ -35,7 +35,7 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
       <h3 align="center"><strong>Lenguages</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
-          <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+          <img align="center" width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
         </a>
       </p>
     </td>
