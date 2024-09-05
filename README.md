@@ -1,4 +1,4 @@
-![Genesis Banner Image](https://github.com/GnesisVSS/GnesisVSS/blob/GnesisVSS-test/bedroom-banner.jpg)
+![Genesis Banner Image](https://github.com/GnesisVSS/GnesisVSS/blob/main/bedroom-banner.jpg)
 
 <div>
   <img align="right" width="40%" src="https://github.com/GnesisVSS/GnesisVSS/blob/GnesisVSS-test/bedroom.svg">
