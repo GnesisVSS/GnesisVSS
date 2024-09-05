@@ -13,15 +13,26 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
 
 - 🚀 Currently, I’m exploring new tools and technologies to enhance my work and tackle real-world problems.
 - 🌐 Check out my portfolio for more about my projects and what I'm working on: https://portafoliogvss.netlify.app/
-
+- 🤝 Find me here too! <div align="center">
+ <a href="https://www.linkedin.com/in/genesis-saez/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin />
+</a>
+<a href="mailto:gnesis.vss@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail />
+</a>
 <br />
 <h3 align="center"><strong>Lenguages</strong></h3>
 <p align="center">
-   <a href="https://github.com/Kiran1689">
-      <img align="center" src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux"  />
+   <a href="https://github.com/GnesisVSS">
+      <img align="center" src="https://skillicons.dev/icons?i=java,js,cs,py,ts,php"  />
    </a>
 </p>
-
+<h3 align="center"><strong>Frameworks and libraries</strong></h3>
+<p align="center">
+   <a href="https://github.com/GnesisVSS">
+      <img align="center" src="https://skillicons.dev/icons?i=dotnet,react,spring,django,bootstrap"  />
+   </a>
+</p>
 <h2 align="center"> Tech Stack & Socials </h2>
 
 <table width="100%" align="center">
@@ -47,7 +58,6 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
 </table>
 <br />
 
-
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=GnesisVSS&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
@@ -60,23 +70,4 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
   </a>
 </p>
 <br />
-<!--Contact Section--> 
 
-<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
-<div align="center">
- <a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px; border-radius:25px" />
-</a>
-  
-<a href="mailto:kirannaragund197@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/kiran_a_n" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=kiran_a_n Instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://twitter.com/kiran__a__n" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kiran__a__n Twitter" style="margin-bottom: 5px;" />
-</a>
-</div>
