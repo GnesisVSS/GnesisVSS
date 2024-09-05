@@ -40,16 +40,16 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
     <td width="50%">
      <h3 align="center"><strong>Most Used Lenguajes</strong></h3>
       <p align="center">
-         <a href="https://github.com/Kiran1689">
-           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnesisVSS&theme=nightowl&exclude_repo=portafolio_de_titulo&layout=compact" alt="Top Repo" />
+         <a href="https://github.com/GnesisVSS">
+           <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnesisVSS&theme=radical&exclude_repo=portafolio_de_titulo&layout=compact" alt="Top Repo" />
        </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=GnesisVSS&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        <a href="https://github.com/GnesisVSS">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=GnesisVSS&limit=3&theme=radical&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
