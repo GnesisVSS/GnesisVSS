@@ -26,33 +26,16 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
 
 <br />
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
-</p>
-<br />
-
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/GnesisVSS?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=GnesisVSS&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
-<br />
-
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center"> Tech Stack & Socials </h2>
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <h3 align="center"><strong>Lenguages</strong></h3>
       <p align="center">
         <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
         </a>
       </p>
     </td>
@@ -93,6 +76,25 @@ I'm always seeking new challenges and opportunities to improve my skills. I firm
 </div>
 
 ---
+
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+
+</p>
+<br />
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/GnesisVSS?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=GnesisVSS&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
+
+
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
