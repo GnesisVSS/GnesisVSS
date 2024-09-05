@@ -1,5 +1,5 @@
 <!--Banner-->
-![Genesis Banner Image](https://github.com/GnesisVSS/GnesisVSS/blob/GnesisVSS-test/bannerEdit.jpg)
+![Genesis Banner Image](https://github.com/GnesisVSS/GnesisVSS/blob/GnesisVSS-test/banner.jpg)
 
 <!--Bedroom image-->
 <div>
