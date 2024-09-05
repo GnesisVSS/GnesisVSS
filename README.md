@@ -11,7 +11,6 @@
 <!--Header Name-->
 
 # 👩‍💻 I'm Genesis! 
-*Fullstack Web Developer*
 
 <!--Start Intro-->               
 
@@ -21,8 +20,8 @@ Hi there! I'm a Software Engineer with a degree from DuocUC, specializing in Web
 
 I'm always seeking new challenges and opportunities to improve my skills. I firmly believe that every project and every mistake is a learning opportunity, and I'm driven by the continuous growth that helps me develop innovative and efficient solutions.
 
-🚀 Currently, I’m exploring new tools and technologies to enhance my work and tackle real-world problems.
-🌐 Check out my portfolio for more about my projects and what I'm working on: https://portafoliogvss.netlify.app/
+-🚀 Currently, I’m exploring new tools and technologies to enhance my work and tackle real-world problems.
+-🌐 Check out my portfolio for more about my projects and what I'm working on: https://portafoliogvss.netlify.app/
 
 <!--End Intro-->
 
